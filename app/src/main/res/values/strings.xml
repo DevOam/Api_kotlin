@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="welcome">Welcome</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="password">Password</string>
+    <string name="by_signing_in_you_are_agreeing_our_term_and_privacy_policy">By signing in you are agreeing our Term and privacy policy</string>
+    <string name="remember_password">Remember password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget password</string>
+    <string name="register">Register</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="username">Username</string>
+    <string name="self_info">Self Info</string>
+    <string name="self_info_content">This is a placeholder for self info.</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="get_followers">Get Followers</string>
+    <string name="get_following">Get Following</string>
+    <string name="ads_page_title">Ads Page</string>
+    <string name="number_of_likes">Number of Likes</string>
+    <string name="self_user_posts">Self User Posts</string>
+    <string name="followed_user_posts">Followed User Posts</string>
+    <string name="back_button">Back</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
